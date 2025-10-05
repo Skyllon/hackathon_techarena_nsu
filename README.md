@@ -33,6 +33,6 @@
 
 # Команда хакатона
 Студенты первого курса СибГУТИ направления "Фундаментальная информатика и информационные технологии"
-- **Никита** [@Binequation](https://github.com/Binequation)
+- **Никита** [@Skyllon](https://github.com/Skyllon)
 - **Константин** [@Roguenaf](https://github.com/roguenaf)
 - **Комилжон** [@Kamaznaut](https://github.com/kamaznaut)
